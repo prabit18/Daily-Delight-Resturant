@@ -1,4 +1,4 @@
-GKMIT Restaurant :- Restaurant to order and find delicious food.
+Daily Delight Restaurant :- Restaurant to order, booking table and find delicious food.
 
 Restaurant Website using MERN Stack.
 
